@@ -3,7 +3,7 @@ Title Comando para Habilitar Administrador
 @echo off
 @echo ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 @echo ::::::::                                                ::::::::
-@echo :::::::: Habilitar cuenta de Administradopr             ::::::::
+@echo ::::::::      Habilitar cuenta de Administradopr        ::::::::
 @echo ::::::::                                                ::::::::
 @echo ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 @echo ::                                                            ::
